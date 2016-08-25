@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nfc Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="explanation">請使用手機感應周遭標籤</string>
+</resources>
